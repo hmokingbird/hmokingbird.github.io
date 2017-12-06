@@ -1,0 +1,26 @@
+{
+    "name": "Hans Mok's Personal Website",
+    "version": "0.0.0",
+    "description": "React implementation of Hans Mok's personal website.",
+    "main": "webpack.config.js",
+    "dependencies": {
+        "react":"^16.2.0",
+        "react-dom":"^16.2.0",
+        "react-router-dom":"^4.2.2",
+        "webpack":"^3.10.0",
+        "babel-loader":"^7.1.2",
+        "babel-preset-react": "^6.24.1",
+        "babel-preset-es2015":"^6.24.1"
+    },
+    "devDependencies": {
+    },
+    "scripts": {
+        "test": "echo \"Error: No test specified\" && exit 1"
+    },
+    "author": {
+        "name":"Hans Mok",
+        "email":"contact@hansmok.com",
+        "url": "http://hansmok.com"
+    },
+    "license": "ISC"
+}
